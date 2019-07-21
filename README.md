@@ -5,12 +5,19 @@ In this article, I will teach you how to save time on social media platforms and
 ## Table of Contents
 
 [Youtube](#youtube)
+
 [Facebook](#facebook)
+
 [Quora](#quora)
+
 [Twitter](#twitter)
+
 [Medium](#medium)
+
 [Soundcloud](#soundcloud)
+
 [LinkedIn](#linkedin)
+
 [Pinterest](#pinterest)
 
 Original article regarding the use of these scripts [written here](http://runastartup.com/shortcuts-to-automate-your-likes-and-follows/).
